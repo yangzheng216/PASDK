@@ -1,0 +1,416 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.0.1
+
+Name: AndroidManifest.xml
+SHA-256-Digest: hnAmZ5ai5NQbmR8QN3vo3ZVyjNdteCwQ/+DCzYNyUDA=
+
+Name: assets/bin/Data/Managed/Assembly-CSharp.dll
+SHA-256-Digest: +OVgIVoMxYixbxGMrAvD/QgkTl9KDnUqek8sf0xjryY=
+
+Name: assets/bin/Data/Managed/Mono.Posix.dll
+SHA-256-Digest: fD1ZvOOEiXHjrIqDtjhVQiKI5ei3rSCetf8x6Ugjqj4=
+
+Name: assets/bin/Data/Managed/Mono.Security.dll
+SHA-256-Digest: Jf6huF6z1LzY34JJivSp4B+ZaQAy5Y0F9Fso2CVlbkU=
+
+Name: assets/bin/Data/Managed/System.Configuration.dll
+SHA-256-Digest: nqWnBkGAGoaSXCEOPmpS0hq8KXNLcE9CpFjji8zhJZU=
+
+Name: assets/bin/Data/Managed/System.Core.dll
+SHA-256-Digest: U8lEOsg3vsvvQiypABgGeDTjPhEwyu553KDB+wMTq8c=
+
+Name: assets/bin/Data/Managed/System.Security.dll
+SHA-256-Digest: BQ5rb4865JIY1oaH1fv1CFG5w0j0/Itr7VlhhBtsCIE=
+
+Name: assets/bin/Data/Managed/System.Xml.dll
+SHA-256-Digest: oaqTDjICi6cq0iGJ8VSn8EHk5ENh4tBOIc4YrtlJ93Q=
+
+Name: assets/bin/Data/Managed/System.dll
+SHA-256-Digest: N7VSuYiK9HoyWJaifCRWuv8k33iPHLBnscfHtqVPiak=
+
+Name: assets/bin/Data/Managed/Unity.TextMeshPro.dll
+SHA-256-Digest: sCQJiFUWc9M8d4prdvsB+n8xujrTN8b8Xbmxej9vtIo=
+
+Name: assets/bin/Data/Managed/UnityEngine.AIModule.dll
+SHA-256-Digest: JRsUfuOt0o7r/Gkmm47dSYgwPqVMmys8c/mfr95MPJI=
+
+Name: assets/bin/Data/Managed/UnityEngine.ARModule.dll
+SHA-256-Digest: XNK//+WOmzPE33ZOPo1+m7pbgPthDq5ct6sLE3XRIds=
+
+Name: assets/bin/Data/Managed/UnityEngine.AccessibilityModule.dll
+SHA-256-Digest: dCjAft4TAQgVGDQxO4fVVXOzzIAkr9hvOgx2UL5mInU=
+
+Name: assets/bin/Data/Managed/UnityEngine.AnimationModule.dll
+SHA-256-Digest: 1ZHSJ2m36gOCK5YzBpn95l1YI6ajY+CcMxzaZcCzjrM=
+
+Name: assets/bin/Data/Managed/UnityEngine.AssetBundleModule.dll
+SHA-256-Digest: 1aO95OXpeWRvsA8g9SQnAXK25RNluavtGgFy6Mx39lA=
+
+Name: assets/bin/Data/Managed/UnityEngine.AudioModule.dll
+SHA-256-Digest: udkmd4+l8YlsK4YmEvct1w6R1Chl0/9xbDEWIXgbN4Y=
+
+Name: assets/bin/Data/Managed/UnityEngine.BaselibModule.dll
+SHA-256-Digest: kgI+8allpmGTI4bQhX4MDaZpov6lo8lk2qxVWdVHpu4=
+
+Name: assets/bin/Data/Managed/UnityEngine.ClothModule.dll
+SHA-256-Digest: v0oCpI8l5nraup9z2KyXRuGg7PPl7wWvzzVd4l6Ebqc=
+
+Name: assets/bin/Data/Managed/UnityEngine.CloudWebServicesModule.dll
+SHA-256-Digest: XqdB3qEDzpFofrk91qcrdIvW8BwAgT+9uxcIsDj9mGU=
+
+Name: assets/bin/Data/Managed/UnityEngine.CoreModule.dll
+SHA-256-Digest: 7PBbrp3n7U/S2ACq4z2ZU8LPrbPjn9bAYhpW+JsgXU8=
+
+Name: assets/bin/Data/Managed/UnityEngine.CrashReportingModule.dll
+SHA-256-Digest: w0p1GmXMuQY7Vz39Ux6DxyRW6KU2YVoaUZrL85UKftA=
+
+Name: assets/bin/Data/Managed/UnityEngine.DirectorModule.dll
+SHA-256-Digest: cBYohFSIUueDJ9RdFNjbx+FCuawD11t8YAdFCBY6Fzc=
+
+Name: assets/bin/Data/Managed/UnityEngine.FacebookModule.dll
+SHA-256-Digest: e+w5LUpGDWEV+oagA8P60wWqiHcBIhcRuQFafj+ba8c=
+
+Name: assets/bin/Data/Managed/UnityEngine.FileSystemHttpModule.dll
+SHA-256-Digest: 5wYCJRPKKC0bVrJkfdVvN8SIMxAHa+8+0qMLNywZ1Rw=
+
+Name: assets/bin/Data/Managed/UnityEngine.GameCenterModule.dll
+SHA-256-Digest: 7z8P8CnAyYXqxMt4DLxkU8u9dJLqYmpt2i9Prz2bxcg=
+
+Name: assets/bin/Data/Managed/UnityEngine.GridModule.dll
+SHA-256-Digest: y5L++WPn1C0zccF9iFwINOaSWZr3QxH1XDDPlgA4k0A=
+
+Name: assets/bin/Data/Managed/UnityEngine.HotReloadModule.dll
+SHA-256-Digest: LAO7MIsTIyaQTaafNyQLxKPBrCq/nEhKMMDVH3NQ08M=
+
+Name: assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll
+SHA-256-Digest: Kw1O/2eSmZ+wf5jbwUaopHBT9HUSNOUxdOELzbbG+r4=
+
+Name: assets/bin/Data/Managed/UnityEngine.ImageConversionModule.dll
+SHA-256-Digest: TmTE+k0sI7uOlDdJWhw3zg+8KRQHvO6aOXJMqs7HRCM=
+
+Name: assets/bin/Data/Managed/UnityEngine.InputModule.dll
+SHA-256-Digest: qGj0xPjT2zaaaWoDxu2PkqamsIY750YNjCzLdh7DIfc=
+
+Name: assets/bin/Data/Managed/UnityEngine.JSONSerializeModule.dll
+SHA-256-Digest: XZ7AThhwkLMDTUwpiHCOsgLrfQizqPRzzILguPFXvfU=
+
+Name: assets/bin/Data/Managed/UnityEngine.LocalizationModule.dll
+SHA-256-Digest: sfi4EB6ZwxJEjiAR4a+mAl00+qDGRoSEOX0c+hCbcUY=
+
+Name: assets/bin/Data/Managed/UnityEngine.Networking.dll
+SHA-256-Digest: xFjjKOCCUmAcHPtQKRNTk9U7V2o+FWq6y8a9xvWZLYY=
+
+Name: assets/bin/Data/Managed/UnityEngine.ParticleSystemModule.dll
+SHA-256-Digest: 6rB7Echgj+aZ8s9nk7aqcupVjbB5BeQ8v3nPe7Sc/PY=
+
+Name: assets/bin/Data/Managed/UnityEngine.ParticlesLegacyModule.dll
+SHA-256-Digest: V9WSu4tMBgCyQRS8L8xB83j78l90Lpge1K5fCG06+2s=
+
+Name: assets/bin/Data/Managed/UnityEngine.PerformanceReportingModule.d
+ ll
+SHA-256-Digest: a/FO7pczZt5K7vVkL1fztUPGN2lRwtk2/koMa6ZvDBM=
+
+Name: assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll
+SHA-256-Digest: DeqlyUjYB31J8vDt/wL4b98r1JDWd8L1aCso2NkCEAs=
+
+Name: assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll
+SHA-256-Digest: xdcJLU+iAe79CGqJovr0X415oLbI+v9R4t6Sag+cnjI=
+
+Name: assets/bin/Data/Managed/UnityEngine.ProfilerModule.dll
+SHA-256-Digest: JQ3hMz+G1s1vYTWsRIow/fww2DnRCuSRN5ZZ/xFudew=
+
+Name: assets/bin/Data/Managed/UnityEngine.ScreenCaptureModule.dll
+SHA-256-Digest: WXKDfoPzCHF1pOLeSRG6OsQvDo7hUEPoLqP8c6Rco18=
+
+Name: assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll
+SHA-256-Digest: 9oo5ZjOiycWMvYj7jG4hX9bJq+fZxtRLAEicAfiBjz4=
+
+Name: assets/bin/Data/Managed/UnityEngine.SpatialTracking.dll
+SHA-256-Digest: nUQiRx3dD10o7i+GnklX0RQZFnr9aoDAPDnWbmeSflM=
+
+Name: assets/bin/Data/Managed/UnityEngine.SpatialTrackingModule.dll
+SHA-256-Digest: zzG7bnnIxRZWoWmk8p0Xf0rxzxljtVlWMDQc4fxFnUw=
+
+Name: assets/bin/Data/Managed/UnityEngine.SpriteMaskModule.dll
+SHA-256-Digest: Xqq7D1zm+LiyNt95qm5wj5KdufCyn6wD8vp54xof9cA=
+
+Name: assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll
+SHA-256-Digest: 8maZPqc2m/pioq4AkXJz9FGAq08wGLGuLg7/o8347gc=
+
+Name: assets/bin/Data/Managed/UnityEngine.StreamingModule.dll
+SHA-256-Digest: iJ2AFxYY5n2QUkIt4NRDLp30g8p/J1UgDae4RTIVU+E=
+
+Name: assets/bin/Data/Managed/UnityEngine.StyleSheetsModule.dll
+SHA-256-Digest: K6Bc0HUiwrwkxxh/0Gv3T/AFVBdT5n268eYUtwnz/RM=
+
+Name: assets/bin/Data/Managed/UnityEngine.SubstanceModule.dll
+SHA-256-Digest: VOjZRy3Uf39d3SoZAxdjFY7cAbfjBBX3LkJ+wf69+Aw=
+
+Name: assets/bin/Data/Managed/UnityEngine.TLSModule.dll
+SHA-256-Digest: KcrWxIHNAP4Eb9hwOfRP5IdBhWNBKGNR/6qoQUmNWto=
+
+Name: assets/bin/Data/Managed/UnityEngine.TerrainModule.dll
+SHA-256-Digest: WenInZFjxe+x2q5t93bRP81czqQI0V/pNzEGRLLtCC0=
+
+Name: assets/bin/Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+SHA-256-Digest: n05vPSjapGI9PAJfaq0NakFkECRomE338my0Pl3P9T0=
+
+Name: assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll
+SHA-256-Digest: jztpHh7Oeedg0EFvoWlKl6gqBSUHXza+ZtjpdaC50aI=
+
+Name: assets/bin/Data/Managed/UnityEngine.TilemapModule.dll
+SHA-256-Digest: 12qS+l/FqbYnqW/3Tdj91e4i3g7JveEL4zJJV4rHtHA=
+
+Name: assets/bin/Data/Managed/UnityEngine.Timeline.dll
+SHA-256-Digest: +2zJIyA9X0HBJSPtnUqLn3QE+jZ9BgnsxJH+wXRhWM0=
+
+Name: assets/bin/Data/Managed/UnityEngine.TimelineModule.dll
+SHA-256-Digest: tUzQw5bklDeJ8JBUDaWe511SCzSL2d7Wy1A5OsPbf0k=
+
+Name: assets/bin/Data/Managed/UnityEngine.UI.dll
+SHA-256-Digest: qYvGL7gzjSm4lbw73PUcGYJAEzDm1r4XjiJo2PuOdCs=
+
+Name: assets/bin/Data/Managed/UnityEngine.UIElementsModule.dll
+SHA-256-Digest: vjPSouEU1UvJ3Jc7hLgRhX6p5h7SCbh94xur7He1Ch0=
+
+Name: assets/bin/Data/Managed/UnityEngine.UIModule.dll
+SHA-256-Digest: CNs36RgW9X0DEsDiJO+SO1XN5Ury+/8+QKrUBwA5qAk=
+
+Name: assets/bin/Data/Managed/UnityEngine.UNETModule.dll
+SHA-256-Digest: thxvjFRpDbyGvHXhojaEgEC+h2Om+mXftAMPfAIhkF4=
+
+Name: assets/bin/Data/Managed/UnityEngine.UmbraModule.dll
+SHA-256-Digest: 8V2yyN2cvZAWyL5FsGmzbVHUQ2z0WOyUoaoTGbPa9FA=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+SHA-256-Digest: 6nmmvJV1Cs8IrBTrmfmGnn6+17rbUr+rH2XzYOB0ePo=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityConnectModule.dll
+SHA-256-Digest: LDhodnzSyiFhO9nX/XKrXnPyARQQH8eyVP/2Wg2o6uA=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityWebRequestAssetBundleMo
+ dule.dll
+SHA-256-Digest: Yc4ASPRDUi8tx/MqqG0UzHgP5Z0biUt3v4idSOGLVqE=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityWebRequestAudioModule.d
+ ll
+SHA-256-Digest: +6DN8VuYHTaA0d/ANF+L1HQqxkW9opxDXR25kCRE934=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityWebRequestModule.dll
+SHA-256-Digest: Bq+oZxReoGAX4kWkXuqrRKhduVNv6Ps1Xs1eH6DTK3Q=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityWebRequestTextureModule
+ .dll
+SHA-256-Digest: ERiTWZn/eb4xsIQipmJzipjlZSjyI2+/yaDa0y/f4R8=
+
+Name: assets/bin/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+SHA-256-Digest: mi8awhcXYS22TQbo2vKUxdPyo8/K7LYvsJXn+sI2GmY=
+
+Name: assets/bin/Data/Managed/UnityEngine.VRModule.dll
+SHA-256-Digest: /hjNz3/KqXwruFlAI8wIM5NHJXfujrvta3wncJ+0v4Y=
+
+Name: assets/bin/Data/Managed/UnityEngine.VehiclesModule.dll
+SHA-256-Digest: Cd/TfZHreEvfRFAJ+ZFx7KLflVei7OVNSH3Jv/zD7UQ=
+
+Name: assets/bin/Data/Managed/UnityEngine.VideoModule.dll
+SHA-256-Digest: JNKTRYfZnFqWHt5UvxU8iL1AzfCOcxGF/Q0aY2nYBhc=
+
+Name: assets/bin/Data/Managed/UnityEngine.WindModule.dll
+SHA-256-Digest: g+0EFWVlcsQdwbXi1XFOF4UI0mpAu3ZwxxTHqCF4lbc=
+
+Name: assets/bin/Data/Managed/UnityEngine.XRModule.dll
+SHA-256-Digest: jF5pluES2Nx1MnFb0NcrF4nXEgceO5Qc9Cv7OcxDuSc=
+
+Name: assets/bin/Data/Managed/UnityEngine.dll
+SHA-256-Digest: 0iUfi9ABcGnGy32Lz5eWnQLRb3SR/r9FhSpXWkt3PSo=
+
+Name: assets/bin/Data/Managed/mscorlib.dll
+SHA-256-Digest: Um/8ipivThW25aMtOvd0+GE4PiRcZAsHRma1Pj9euZY=
+
+Name: assets/bin/Data/Resources/unity_builtin_extra
+SHA-256-Digest: JYUqe5QhBbYT3fCXGw8/F7mlhnKvKv+ZAbLMnpqFtts=
+
+Name: assets/bin/Data/boot.config
+SHA-256-Digest: lFp3JhEv+Ex8rLJRiH4kCLkKbxAsroM9PfHsVtXe/UI=
+
+Name: assets/bin/Data/globalgamemanagers
+SHA-256-Digest: e/19PmgquJgs5jFZLR7to9gvju0Rl9PxkY4DHl7Ow04=
+
+Name: assets/bin/Data/globalgamemanagers.assets
+SHA-256-Digest: Xti1NfuxhIJXRcn1NYnky38y/hSdjAGV7QcorjZk/JE=
+
+Name: assets/bin/Data/level0
+SHA-256-Digest: FEAqtS5W2MbOTiEWAwioAwz3JsBfaza1bsCWjMMceIg=
+
+Name: assets/bin/Data/sharedassets0.assets
+SHA-256-Digest: mgu+AoDaLVJJ7ripa0wi/61Y4c1qffkECZaqKjAh1QE=
+
+Name: assets/bin/Data/unity default resources
+SHA-256-Digest: yQRDEGGJ25CX9+eSZOzn3zJPBLuHVA102C0rGUBdgtI=
+
+Name: classes.dex
+SHA-256-Digest: VitVByyQV+dBzSgJBnafyfBBToCDFlq/YS3Wdm8tLWU=
+
+Name: lib/armeabi-v7a/libmain.so
+SHA-256-Digest: hcVsDv13p6LmpaB0mTMUGiRuzMyhqPujs8DrLvG3TMs=
+
+Name: lib/armeabi-v7a/libmonobdwgc-2.0.so
+SHA-256-Digest: 9Uwlpg6kqVGCzKfaIeI57X5ZVQrOcMQjDhl+l4ukjwI=
+
+Name: lib/armeabi-v7a/libunity.so
+SHA-256-Digest: 4sg0JyLLgbbKJcUbi+3OFLW9EzymrK1D0ppmKsKn748=
+
+Name: lib/x86/libmain.so
+SHA-256-Digest: XOiWFwCo2zIfhiWYrQqgxiL5eexqMIBb63i0LoUgCHg=
+
+Name: lib/x86/libmonobdwgc-2.0.so
+SHA-256-Digest: /n8x23+Jo/IOB2vdMSCmRwPmutiWohM0YRKP03ilcAc=
+
+Name: lib/x86/libunity.so
+SHA-256-Digest: JsWSgzMwQyLwN1eVF+8fCO9jNj4yJyFBozfZY+p1USI=
+
+Name: play-services-ads-base.properties
+SHA-256-Digest: vh90Z9CZw7yRTZKh89Cs7lK9l+j8gn9M6A59F5cbTEk=
+
+Name: play-services-ads-identifier.properties
+SHA-256-Digest: 5XbTUztCIlsW304knI479jw5kyRfEPSF4mdr8XSDtnA=
+
+Name: play-services-ads-lite.properties
+SHA-256-Digest: EvTNIRH1Sy+aO85rYHRh2Vs8phuxbxrp4CIEK8l/AWE=
+
+Name: play-services-ads.properties
+SHA-256-Digest: 9oiFOwdksIZBl9q6jL/dCU5RdAcpmhrATpI6l0I8YLI=
+
+Name: play-services-basement.properties
+SHA-256-Digest: +fGacZYWlZA5iDL6R4I29Y/mHlbXkWjHv4rFR4m6bsU=
+
+Name: play-services-gass.properties
+SHA-256-Digest: BCDTzeXGAs3ZSZzRAcSPsZMzgokEtfHMYa2spg5s15E=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_normal.9.png
+SHA-256-Digest: IfC1UoC+ELGHzv+O3vSlpwR2g+bp/PR95BCqODn0EJQ=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_pressed.9.png
+SHA-256-Digest: Qq7gsDiD6U315UM0ijl9EwLBuCIYlYcag7gYmfWpZHs=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal.9.png
+SHA-256-Digest: DGMox7JCBXCn7DizvrO6yaKdiVrBq3I5MVq6cmZBhZM=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+SHA-256-Digest: GLMo2AF+Z31arT29ZrrjVrXKyXjG8GcJOOpkjlHQ62Y=
+
+Name: res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png
+SHA-256-Digest: hDDsAD4APz8roveNSP0VDiVAdmflMOguh6fUhBwP1nY=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_normal.9.png
+SHA-256-Digest: L3+9oLpuU+mkfi/A4k4yxEfGE6WAjC1ihdxlHoOgetc=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_pressed.9.png
+SHA-256-Digest: 4Xdh7SgO3ZPXFBvVBLcPnp4VqGUiiNnmMzv0zpZO+EQ=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal.9.png
+SHA-256-Digest: qGdqF5OsgxD/sSmGIy32bfCS0pwkKu7cK3NVbAENONw=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png
+SHA-256-Digest: mcFNaFW4viltWAF9N1G43IScR7bR2Aq2FP+QdQgORhs=
+
+Name: res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png
+SHA-256-Digest: DXc+YsdWQiMTJihGx4flj2fg7ofkXhrplCAC6BbEy54=
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA-256-Digest: oH+Q5gV7VpPFXw+pthb9Ld3iZxDettXSIJuEK6BuFes=
+
+Name: res/drawable-xhdpi-v4/app_banner.png
+SHA-256-Digest: +rlQ8JZ/+tEUMkkFtHKZRhgEdtvVq/rlRyNUSRWOtE8=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+SHA-256-Digest: PgmvohxFNywDVZjAF8j7QFptZ45suE3IV1gcs7QOSC0=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+SHA-256-Digest: IDQyIvn3ndVlw6IkhJTUUucIIKwcQ3Fzw4ut1F+WKv0=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal.9.png
+SHA-256-Digest: VZv3g9dlwCM46XlSvcnGaJx/+ZCQuMmBM2kRjaiwgPA=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+SHA-256-Digest: 0nr0NRAcpMvsDIQL0waHkYzTnrg6qxSHQghVYjpFmYs=
+
+Name: res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png
+SHA-256-Digest: tE7to016Upwv5VcZ6wmPopcHyqkdGN4Gp6d11ua8+XM=
+
+Name: res/drawable/notification_bg.xml
+SHA-256-Digest: Q9jJ7xjM6b72cuJ+csXEnrWm7/8/ImysNUELC8g5xOQ=
+
+Name: res/drawable/notification_bg_low.xml
+SHA-256-Digest: r1HceDZlNSdQVyPsZvz7iAjrECqaWNHCGT1RGVwnvTg=
+
+Name: res/drawable/notification_icon_background.xml
+SHA-256-Digest: 7LiDGFGPzcs9C8x4InRD0Svu85G1AmQUHBlxYkYMWUg=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA-256-Digest: vaIXQyrBwiuCgQiQE/hHHVmSrlkdbBRtbUJwxLmcRg4=
+
+Name: res/layout-v21/notification_action.xml
+SHA-256-Digest: x/OhqoDiXbRmiJEW+yXHdWlkQ0K+7YYY+An+/vQiQMs=
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA-256-Digest: tQRLZcmfo2TDsLTSfvAwHbHtSfv5usJQsgRdtqLHp+U=
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA-256-Digest: M5iTTct+ybdpjzPE0FAfrB1HQzlId/y4rmDuI4TJcD8=
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA-256-Digest: xZOMOl3shXnQaz41ePos/Uz9rbGP+LRHwtrw3JFVlU0=
+
+Name: res/layout/notification_media_action.xml
+SHA-256-Digest: EnVq6QOfdJh2zIN4hbuGixu9jqwYPl20vCavIvhHSxU=
+
+Name: res/layout/notification_media_cancel_action.xml
+SHA-256-Digest: 4GpjdqqkQdfT2BCf7p3MAheQH6wzMGnAZhnQVMw9Xss=
+
+Name: res/layout/notification_template_big_media.xml
+SHA-256-Digest: /du+Ik6Idr95lSXdhv3uG35sr0VSZCghjPHvgdz+gsU=
+
+Name: res/layout/notification_template_big_media_custom.xml
+SHA-256-Digest: jdtcfv4hS0BRJ/lOFIa7NaOAiITEWNjKioh4ZndHJWE=
+
+Name: res/layout/notification_template_big_media_narrow.xml
+SHA-256-Digest: pLxrpkSPBrPkFwXCQ+GJtwdtQXGVjOsb/znAJsfXHXc=
+
+Name: res/layout/notification_template_big_media_narrow_custom.xml
+SHA-256-Digest: KSUvgkKwc+nJHX4X69LunKiUQgprfjXcHPi79ipyKmY=
+
+Name: res/layout/notification_template_lines_media.xml
+SHA-256-Digest: d9iLjjQ8VWeZGWiErBgBPs1Dpg4CKZ6jjJqKHeyA6qU=
+
+Name: res/layout/notification_template_media.xml
+SHA-256-Digest: wIANa9pCTlQVwYv/pVfH5C/G9meaBF8MT7Pc89jI8Pg=
+
+Name: res/layout/notification_template_media_custom.xml
+SHA-256-Digest: 5drNHBDw6tI18EbXgPED7I4n8fx2Dk0tRp4ifZybCCI=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA-256-Digest: zbJebwciid0V44wLGxj870vhI2nKaWus04AJRlN6Voo=
+
+Name: res/layout/notification_template_part_time.xml
+SHA-256-Digest: U6OrvDi9gRbtp2v+zGDmhvfCimpKoijmEdFvDVCrCVQ=
+
+Name: res/mipmap-anydpi-v26/app_icon.xml
+SHA-256-Digest: LdH5eQ+JzT92EJk38XDissPoelf6XAPwglKpgvUo/y8=
+
+Name: res/mipmap-anydpi-v26/app_icon_round.xml
+SHA-256-Digest: LdH5eQ+JzT92EJk38XDissPoelf6XAPwglKpgvUo/y8=
+
+Name: res/mipmap-mdpi-v4/app_icon.png
+SHA-256-Digest: L3vdsDlc0Aeb/PFX95stBPfQmgvbApMOkJUW1q0JXu0=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_background.png
+SHA-256-Digest: aoEB2mIfSfstQv7ZggEIix00fIkGVtcEfrWLNBSojrc=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_foreground.png
+SHA-256-Digest: yc1d0pRrMf35Vudan52R48iRqn7Jg7qG/ruD+HWP4e4=
+
+Name: resources.arsc
+SHA-256-Digest: VALLGPtaU6g+my6r1mgi/nS9uen8kYMii7gWRSkI4BY=
+
